@@ -10,10 +10,10 @@ body {
 /* Fade transition for carousel items */
 .carousel .item {
     left: 0 !important;
-      -webkit-transition: opacity 1.5s ease-in-out; /*adjust timing here */
-         -moz-transition: opacity 1.5s ease-in-out;
-           -o-transition: opacity 1.5s ease-in-out;
-              transition: opacity 1.5s ease-in-out;
+      -webkit-transition: opacity 3s; /*adjust timing here */
+         -moz-transition: opacity 3s;
+           -o-transition: opacity 3s;
+              transition: opacity 3s;
 }
 .carousel-control {
     background-image: none !important; /* remove background gradients on controls */
